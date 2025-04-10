@@ -1,4 +1,17 @@
 {
- id: 13,
- name: "test"
+  "name": "libhalo",
+  "path": "opt/libhalo",
+  "sha": "c506333a8ddc9ef6d4f2e82d679a2ef0866559bd",
+  "size": 0,
+  "url": "https://api.github.com/repos/augurysys/halo-node/contents/opt/libhalo?ref=f1e858b274303ae60ef7147795918009203b349a",
+  "html_url": "https://github.com/augurysys/libhalo/tree/c506333a8ddc9ef6d4f2e82d679a2ef0866559bd",
+  "git_url": "https://api.github.com/repos/augurysys/libhalo/git/trees/c506333a8ddc9ef6d4f2e82d679a2ef0866559bd",
+  "download_url": null,
+  "type": "submodule",
+  "submodule_git_url": "git@github.com:augurysys/libhalo.git",
+  "_links": {
+    "self": "https://api.github.com/repos/augurysys/halo-node/contents/opt/libhalo?ref=f1e858b274303ae60ef7147795918009203b349a",
+    "git": "https://api.github.com/repos/augurysys/libhalo/git/trees/c506333a8ddc9ef6d4f2e82d679a2ef0866559bd",
+    "html": "https://github.com/augurysys/libhalo/tree/c506333a8ddc9ef6d4f2e82d679a2ef0866559bd"
+  }
 }
